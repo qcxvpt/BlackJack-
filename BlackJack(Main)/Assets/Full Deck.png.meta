@@ -1,0 +1,1280 @@
+fileFormatVersion: 2
+guid: 36753a8cdb56a3f4abb4b442c58ce31d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Full Deck_0
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 1623
+        width: 208
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d95ff489d3164f43a99fe1e7fc1170a
+      internalID: 415440623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Deck_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1262
+        width: 209
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134140d62dda0ea40b87f710c0bc7a7a
+      internalID: 1384462779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Deck_2
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1262
+        width: 208
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31517741b28340e41888d1a9639c8b65
+      internalID: 1747144959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Deck_3
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1262
+        width: 210
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38fc3fb9a1a362418cf915341e57c10
+      internalID: -501894578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Deck_4
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1262
+        width: 208
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6041ae03acac884fb9a76141beba051
+      internalID: 810580482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Deck_5
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 1262
+        width: 209
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac091d69b25041c47ae58a3357533640
+      internalID: 742991295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Deck_6
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1262
+        width: 208
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2260a6425479e40a926fd793aafaf8
+      internalID: -876991797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Deck_7
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 1262
+        width: 210
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af471ab9ccb2644cb367381d11f63eb
+      internalID: -869194340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Deck_8
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 1262
+        width: 209
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f11ef26d48aaeb48a5fa9bdc58a1c4e
+      internalID: -1272935313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Deck_9
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 1262
+        width: 209
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863330c70fd5e164387725fbd764c24b
+      internalID: 804572898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Deck_10
+      rect:
+        serializedVersion: 2
+        x: 2087
+        y: 1262
+        width: 208
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e34e537fbbbfe14d92f23849033a187
+      internalID: 829862601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Deck_11
+      rect:
+        serializedVersion: 2
+        x: 2315
+        y: 1262
+        width: 208
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd706cee22a41e4e87c30ecd0f7678a
+      internalID: 864326655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Deck_12
+      rect:
+        serializedVersion: 2
+        x: 2544
+        y: 1262
+        width: 209
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1460efd485ad6d4d9e9b49856164e4f
+      internalID: -1386906494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Deck_13
+      rect:
+        serializedVersion: 2
+        x: 2774
+        y: 1262
+        width: 209
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5bac0e2bdd7b634cb0ee2a831afd38b
+      internalID: 1675450711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Deck_14
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 933
+        width: 209
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1835f75b97e64d4fbb345283cad1beb
+      internalID: -655649086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Deck_15
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 933
+        width: 208
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d966123de606d45a58316152fab1ab
+      internalID: 1339303877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Deck_16
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 933
+        width: 210
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9ad46dda02c6c4bada5660272de77f
+      internalID: -1093777592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Deck_17
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 933
+        width: 208
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed978adf703d9b34ea8157c6404fa233
+      internalID: -412735613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Deck_18
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 933
+        width: 209
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f51c3c107d66248a6eb908f38ca33c
+      internalID: -812171178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Deck_19
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 933
+        width: 208
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde3e6083dbd03c4ca3d48e6c65ba88e
+      internalID: -1186746854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Deck_20
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 933
+        width: 210
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8f45024521d53459479c096970e799
+      internalID: 2014845391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Deck_21
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 933
+        width: 209
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f982686692d7c4eb49626c62e03043
+      internalID: -2050425507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Deck_22
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 933
+        width: 209
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c7c5175452416488599e244a529252
+      internalID: -1923330122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Deck_23
+      rect:
+        serializedVersion: 2
+        x: 2087
+        y: 933
+        width: 208
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ab5f4babe4af040972e09e5f613d48
+      internalID: 177077510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Deck_24
+      rect:
+        serializedVersion: 2
+        x: 2315
+        y: 933
+        width: 208
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7bfa69252a1cc418bf0ca60fc7891f
+      internalID: 1113739599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Deck_25
+      rect:
+        serializedVersion: 2
+        x: 2544
+        y: 933
+        width: 209
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67fd4464832b3a4e81839ad351b89bb
+      internalID: 1418542654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Deck_26
+      rect:
+        serializedVersion: 2
+        x: 2774
+        y: 933
+        width: 209
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088bc9ef0d8a4604e97d4c2afe3709ed
+      internalID: 1939161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Deck_27
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 603
+        width: 209
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3136318f5cf9f2f47bbbf4e27466e80b
+      internalID: -923710626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Deck_28
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 603
+        width: 208
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86818127c80c3ef44979535ae28910c1
+      internalID: -1808563250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Deck_29
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 603
+        width: 210
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe65b9d3aabc824884b090c070a3089
+      internalID: -366668216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Deck_30
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 603
+        width: 208
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee1901382c84324e892717c5703bab6
+      internalID: 680947812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Deck_31
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 603
+        width: 209
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669d7a28063b68948b9485e87402dda7
+      internalID: 296789425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Deck_32
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 603
+        width: 208
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d39ac504b18ac4fb0ed3da1e41b22b
+      internalID: -921019767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Deck_33
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 603
+        width: 210
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846fcee8bf8c5054ab2a485b02f6cd17
+      internalID: 1663603721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Deck_34
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 603
+        width: 209
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf3e8a284fff8646b2dcd9ede292e48
+      internalID: 1234283746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Deck_35
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 603
+        width: 209
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7689600fbd2a21341b6db6d7d759de73
+      internalID: -1882611232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Deck_36
+      rect:
+        serializedVersion: 2
+        x: 2087
+        y: 603
+        width: 208
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d06071c0a0e5774ea3e7fca28d4db65
+      internalID: -1906780482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Deck_37
+      rect:
+        serializedVersion: 2
+        x: 2315
+        y: 603
+        width: 208
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a640c9542a329944d8d1daca00c9917b
+      internalID: 867464297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Deck_38
+      rect:
+        serializedVersion: 2
+        x: 2544
+        y: 603
+        width: 209
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38f28d925c361c498c3b51fe5c41a54
+      internalID: -1733435184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Deck_39
+      rect:
+        serializedVersion: 2
+        x: 2774
+        y: 603
+        width: 209
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6b7f6f79335194c8a560f2358e31fc
+      internalID: -84900446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Deck_40
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 272
+        width: 209
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81286f44833cdb4d975922309f440e4
+      internalID: 1840889594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Deck_41
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 272
+        width: 208
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcd89bcd9d33c44eae75a9e3a0454f8
+      internalID: -2141161664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Deck_42
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 272
+        width: 210
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde5982e63a0dc743b9870b14a591e74
+      internalID: -582865202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Deck_43
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 272
+        width: 208
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c24ad63189cca4f940a6bc5a9f310f
+      internalID: 1478947227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Deck_44
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 272
+        width: 209
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e7525f2f8deeb44b9c74b87e558d00
+      internalID: -1238144664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Deck_45
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 272
+        width: 208
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2a18341aafdd444bdbd2c6a0f5db5c
+      internalID: -2088447428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Deck_46
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 272
+        width: 210
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54dfd7880d9f0647bf41c70cbef9fbc
+      internalID: 714853873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Deck_47
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 272
+        width: 209
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f0a3e636a204047b60451573221075
+      internalID: 1373918999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Deck_48
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 272
+        width: 209
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9cbad9df32b434f8f675ed851f5cb6
+      internalID: 1578871673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Deck_49
+      rect:
+        serializedVersion: 2
+        x: 2087
+        y: 272
+        width: 208
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173a526cf47094944ad25c5a24ce28f3
+      internalID: -1002469676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Deck_50
+      rect:
+        serializedVersion: 2
+        x: 2315
+        y: 272
+        width: 208
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e6ace12d0633942a0c86119a0ede07
+      internalID: 1137087931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Deck_51
+      rect:
+        serializedVersion: 2
+        x: 2544
+        y: 272
+        width: 209
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f8f8fa76f457540b5f8a0e359d3bd8
+      internalID: 1340486531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Deck_52
+      rect:
+        serializedVersion: 2
+        x: 2774
+        y: 272
+        width: 209
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b375496258106449617b67a55e05c0
+      internalID: -1839336402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Full Deck_0: 415440623
+      Full Deck_1: 1384462779
+      Full Deck_10: 829862601
+      Full Deck_11: 864326655
+      Full Deck_12: -1386906494
+      Full Deck_13: 1675450711
+      Full Deck_14: -655649086
+      Full Deck_15: 1339303877
+      Full Deck_16: -1093777592
+      Full Deck_17: -412735613
+      Full Deck_18: -812171178
+      Full Deck_19: -1186746854
+      Full Deck_2: 1747144959
+      Full Deck_20: 2014845391
+      Full Deck_21: -2050425507
+      Full Deck_22: -1923330122
+      Full Deck_23: 177077510
+      Full Deck_24: 1113739599
+      Full Deck_25: 1418542654
+      Full Deck_26: 1939161
+      Full Deck_27: -923710626
+      Full Deck_28: -1808563250
+      Full Deck_29: -366668216
+      Full Deck_3: -501894578
+      Full Deck_30: 680947812
+      Full Deck_31: 296789425
+      Full Deck_32: -921019767
+      Full Deck_33: 1663603721
+      Full Deck_34: 1234283746
+      Full Deck_35: -1882611232
+      Full Deck_36: -1906780482
+      Full Deck_37: 867464297
+      Full Deck_38: -1733435184
+      Full Deck_39: -84900446
+      Full Deck_4: 810580482
+      Full Deck_40: 1840889594
+      Full Deck_41: -2141161664
+      Full Deck_42: -582865202
+      Full Deck_43: 1478947227
+      Full Deck_44: -1238144664
+      Full Deck_45: -2088447428
+      Full Deck_46: 714853873
+      Full Deck_47: 1373918999
+      Full Deck_48: 1578871673
+      Full Deck_49: -1002469676
+      Full Deck_5: 742991295
+      Full Deck_50: 1137087931
+      Full Deck_51: 1340486531
+      Full Deck_52: -1839336402
+      Full Deck_6: -876991797
+      Full Deck_7: -869194340
+      Full Deck_8: -1272935313
+      Full Deck_9: 804572898
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
